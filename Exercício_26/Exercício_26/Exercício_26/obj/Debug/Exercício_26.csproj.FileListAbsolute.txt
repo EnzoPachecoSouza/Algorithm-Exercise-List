@@ -1,0 +1,14 @@
+C:\Users\ALUNO\Desktop\Exercício_26\Exercício_26\Exercício_26\obj\Debug\Exercício_26.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercício_26\Exercício_26\Exercício_26\bin\Debug\Exercício_26.exe.config
+C:\Users\ALUNO\Desktop\Exercício_26\Exercício_26\Exercício_26\bin\Debug\Exercício_26.exe
+C:\Users\ALUNO\Desktop\Exercício_26\Exercício_26\Exercício_26\bin\Debug\Exercício_26.pdb
+C:\Users\ALUNO\Desktop\Exercício_26\Exercício_26\Exercício_26\obj\Debug\Exercício_26.exe
+C:\Users\ALUNO\Desktop\Exercício_26\Exercício_26\Exercício_26\obj\Debug\Exercício_26.pdb
+D:\Exercício_26\Exercício_26\Exercício_26\bin\Debug\Exercício_26.exe.config
+D:\Exercício_26\Exercício_26\Exercício_26\bin\Debug\Exercício_26.exe
+D:\Exercício_26\Exercício_26\Exercício_26\bin\Debug\Exercício_26.pdb
+D:\Exercício_26\Exercício_26\Exercício_26\obj\Debug\Exercício_26.csproj.AssemblyReference.cache
+D:\Exercício_26\Exercício_26\Exercício_26\obj\Debug\Exercício_26.csproj.SuggestedBindingRedirects.cache
+D:\Exercício_26\Exercício_26\Exercício_26\obj\Debug\Exercício_26.csproj.CoreCompileInputs.cache
+D:\Exercício_26\Exercício_26\Exercício_26\obj\Debug\Exercício_26.exe
+D:\Exercício_26\Exercício_26\Exercício_26\obj\Debug\Exercício_26.pdb

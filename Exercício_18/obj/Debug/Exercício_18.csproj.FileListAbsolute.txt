@@ -1,0 +1,7 @@
+C:\Users\ALUNO\source\repos\Exercício_18\Exercício_18\obj\Debug\Exercício_18.csprojAssemblyReference.cache
+C:\Users\ALUNO\source\repos\Exercício_18\Exercício_18\obj\Debug\Exercício_18.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Exercício_18\Exercício_18\bin\Debug\Exercício_18.exe.config
+C:\Users\ALUNO\source\repos\Exercício_18\Exercício_18\bin\Debug\Exercício_18.exe
+C:\Users\ALUNO\source\repos\Exercício_18\Exercício_18\bin\Debug\Exercício_18.pdb
+C:\Users\ALUNO\source\repos\Exercício_18\Exercício_18\obj\Debug\Exercício_18.exe
+C:\Users\ALUNO\source\repos\Exercício_18\Exercício_18\obj\Debug\Exercício_18.pdb

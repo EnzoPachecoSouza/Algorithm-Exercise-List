@@ -1,0 +1,7 @@
+C:\Users\ALUNO\Desktop\Exercício_21\Exercício_21\Exercício_21\bin\Debug\Exercício_21.exe.config
+C:\Users\ALUNO\Desktop\Exercício_21\Exercício_21\Exercício_21\bin\Debug\Exercício_21.exe
+C:\Users\ALUNO\Desktop\Exercício_21\Exercício_21\Exercício_21\bin\Debug\Exercício_21.pdb
+C:\Users\ALUNO\Desktop\Exercício_21\Exercício_21\Exercício_21\obj\Debug\Exercício_21.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Exercício_21\Exercício_21\Exercício_21\obj\Debug\Exercício_21.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercício_21\Exercício_21\Exercício_21\obj\Debug\Exercício_21.exe
+C:\Users\ALUNO\Desktop\Exercício_21\Exercício_21\Exercício_21\obj\Debug\Exercício_21.pdb

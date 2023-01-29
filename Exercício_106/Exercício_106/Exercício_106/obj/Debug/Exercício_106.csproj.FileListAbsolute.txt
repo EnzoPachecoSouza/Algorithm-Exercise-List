@@ -1,0 +1,6 @@
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_106\Exercício_106\Exercício_106\bin\Debug\Exercício_106.exe.config
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_106\Exercício_106\Exercício_106\bin\Debug\Exercício_106.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_106\Exercício_106\Exercício_106\bin\Debug\Exercício_106.pdb
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_106\Exercício_106\Exercício_106\obj\Debug\Exercício_106.csproj.CoreCompileInputs.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_106\Exercício_106\Exercício_106\obj\Debug\Exercício_106.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_106\Exercício_106\Exercício_106\obj\Debug\Exercício_106.pdb

@@ -1,0 +1,14 @@
+C:\Users\ALUNO\Desktop\Exercício_02\Exercíco_02\Exercíco_02\bin\Debug\Exercíco_02.exe.config
+C:\Users\ALUNO\Desktop\Exercício_02\Exercíco_02\Exercíco_02\bin\Debug\Exercíco_02.exe
+C:\Users\ALUNO\Desktop\Exercício_02\Exercíco_02\Exercíco_02\bin\Debug\Exercíco_02.pdb
+C:\Users\ALUNO\Desktop\Exercício_02\Exercíco_02\Exercíco_02\obj\Debug\Exercíco_02.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Exercício_02\Exercíco_02\Exercíco_02\obj\Debug\Exercíco_02.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercício_02\Exercíco_02\Exercíco_02\obj\Debug\Exercíco_02.exe
+C:\Users\ALUNO\Desktop\Exercício_02\Exercíco_02\Exercíco_02\obj\Debug\Exercíco_02.pdb
+C:\Users\ALUNO\Desktop\Simulado_01\Exercício_02\Exercíco_02\Exercíco_02\bin\Debug\Exercíco_02.exe.config
+C:\Users\ALUNO\Desktop\Simulado_01\Exercício_02\Exercíco_02\Exercíco_02\bin\Debug\Exercíco_02.exe
+C:\Users\ALUNO\Desktop\Simulado_01\Exercício_02\Exercíco_02\Exercíco_02\bin\Debug\Exercíco_02.pdb
+C:\Users\ALUNO\Desktop\Simulado_01\Exercício_02\Exercíco_02\Exercíco_02\obj\Debug\Exercíco_02.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Simulado_01\Exercício_02\Exercíco_02\Exercíco_02\obj\Debug\Exercíco_02.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Simulado_01\Exercício_02\Exercíco_02\Exercíco_02\obj\Debug\Exercíco_02.exe
+C:\Users\ALUNO\Desktop\Simulado_01\Exercício_02\Exercíco_02\Exercíco_02\obj\Debug\Exercíco_02.pdb

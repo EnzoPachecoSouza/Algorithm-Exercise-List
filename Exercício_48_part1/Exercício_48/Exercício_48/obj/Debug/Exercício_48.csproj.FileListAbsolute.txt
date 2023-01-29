@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\Exercício_48\Exercício_48\Exercício_48\bin\Debug\Exercício_48.exe.config
+C:\Users\ALUNO\Desktop\Exercício_48\Exercício_48\Exercício_48\bin\Debug\Exercício_48.exe
+C:\Users\ALUNO\Desktop\Exercício_48\Exercício_48\Exercício_48\bin\Debug\Exercício_48.pdb
+C:\Users\ALUNO\Desktop\Exercício_48\Exercício_48\Exercício_48\obj\Debug\Exercício_48.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Exercício_48\Exercício_48\Exercício_48\obj\Debug\Exercício_48.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercício_48\Exercício_48\Exercício_48\obj\Debug\Exercício_48.exe
+C:\Users\ALUNO\Desktop\Exercício_48\Exercício_48\Exercício_48\obj\Debug\Exercício_48.pdb
+D:\Exercício_48_part1\Exercício_48\Exercício_48\bin\Debug\Exercício_48.exe.config
+D:\Exercício_48_part1\Exercício_48\Exercício_48\bin\Debug\Exercício_48.exe
+D:\Exercício_48_part1\Exercício_48\Exercício_48\bin\Debug\Exercício_48.pdb
+D:\Exercício_48_part1\Exercício_48\Exercício_48\obj\Debug\Exercício_48.csproj.AssemblyReference.cache
+D:\Exercício_48_part1\Exercício_48\Exercício_48\obj\Debug\Exercício_48.csproj.SuggestedBindingRedirects.cache
+D:\Exercício_48_part1\Exercício_48\Exercício_48\obj\Debug\Exercício_48.csproj.CoreCompileInputs.cache
+D:\Exercício_48_part1\Exercício_48\Exercício_48\obj\Debug\Exercício_48.exe
+D:\Exercício_48_part1\Exercício_48\Exercício_48\obj\Debug\Exercício_48.pdb

@@ -1,0 +1,6 @@
+C:\Users\ALUNO\Desktop\Exercício_87\Exercício_87\Exercício_87\bin\Debug\Exercício_87.exe.config
+C:\Users\ALUNO\Desktop\Exercício_87\Exercício_87\Exercício_87\bin\Debug\Exercício_87.exe
+C:\Users\ALUNO\Desktop\Exercício_87\Exercício_87\Exercício_87\bin\Debug\Exercício_87.pdb
+C:\Users\ALUNO\Desktop\Exercício_87\Exercício_87\Exercício_87\obj\Debug\Exercício_87.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercício_87\Exercício_87\Exercício_87\obj\Debug\Exercício_87.exe
+C:\Users\ALUNO\Desktop\Exercício_87\Exercício_87\Exercício_87\obj\Debug\Exercício_87.pdb

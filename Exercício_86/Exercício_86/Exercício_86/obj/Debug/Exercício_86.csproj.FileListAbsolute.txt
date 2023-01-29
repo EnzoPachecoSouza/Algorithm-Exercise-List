@@ -1,0 +1,6 @@
+C:\Users\ALUNO\Desktop\Exercício_86\Exercício_86\Exercício_86\bin\Debug\Exercício_86.exe.config
+C:\Users\ALUNO\Desktop\Exercício_86\Exercício_86\Exercício_86\bin\Debug\Exercício_86.exe
+C:\Users\ALUNO\Desktop\Exercício_86\Exercício_86\Exercício_86\bin\Debug\Exercício_86.pdb
+C:\Users\ALUNO\Desktop\Exercício_86\Exercício_86\Exercício_86\obj\Debug\Exercício_86.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercício_86\Exercício_86\Exercício_86\obj\Debug\Exercício_86.exe
+C:\Users\ALUNO\Desktop\Exercício_86\Exercício_86\Exercício_86\obj\Debug\Exercício_86.pdb

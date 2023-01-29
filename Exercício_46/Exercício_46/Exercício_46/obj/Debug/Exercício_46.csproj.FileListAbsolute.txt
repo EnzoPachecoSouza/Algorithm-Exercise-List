@@ -1,0 +1,14 @@
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_46\Exercício_46\Exercício_46\bin\Debug\Exercício_46.exe.config
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_46\Exercício_46\Exercício_46\bin\Debug\Exercício_46.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_46\Exercício_46\Exercício_46\bin\Debug\Exercício_46.pdb
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_46\Exercício_46\Exercício_46\obj\Debug\Exercício_46.csprojAssemblyReference.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_46\Exercício_46\Exercício_46\obj\Debug\Exercício_46.csproj.CoreCompileInputs.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_46\Exercício_46\Exercício_46\obj\Debug\Exercício_46.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_46\Exercício_46\Exercício_46\obj\Debug\Exercício_46.pdb
+F:\Exercício_46\Exercício_46\Exercício_46\bin\Debug\Exercício_46.exe.config
+F:\Exercício_46\Exercício_46\Exercício_46\bin\Debug\Exercício_46.exe
+F:\Exercício_46\Exercício_46\Exercício_46\bin\Debug\Exercício_46.pdb
+F:\Exercício_46\Exercício_46\Exercício_46\obj\Debug\Exercício_46.csprojAssemblyReference.cache
+F:\Exercício_46\Exercício_46\Exercício_46\obj\Debug\Exercício_46.csproj.CoreCompileInputs.cache
+F:\Exercício_46\Exercício_46\Exercício_46\obj\Debug\Exercício_46.exe
+F:\Exercício_46\Exercício_46\Exercício_46\obj\Debug\Exercício_46.pdb

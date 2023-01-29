@@ -1,0 +1,103 @@
+            Console.WriteLine("---> Enzo Pacheco de Oliveira Souza");
+            Console.WriteLine("---> ");
+            Console.WriteLine("---> Exercício 01");
+            Console.WriteLine("  ");
+            Console.WriteLine("------------------------------------");
+            Console.WriteLine("  ");
+
+            Console.Write("Digite um número: ");
+            int numero = int.Parse(Console.ReadLine());
+
+            int dezena = numero / 10 % 10;
+
+            if (numero >= 10)
+            {
+                Console.WriteLine(dezena);
+            }
+
+            else
+            {
+                Console.WriteLine("O número deve ser igual ou maior que dez");
+            }
+
+
+            Console.Read();
+
+------------------------------------------------------------------------------------------------------------------
+
+            Console.WriteLine("---> Enzo Pacheco de Oliveira Souza");
+            Console.WriteLine("---> ");
+            Console.WriteLine("---> Exercício 02");
+            Console.WriteLine("  ");
+            Console.WriteLine("------------------------------------");
+            Console.WriteLine("  ");
+
+            Console.Write("Digite o Limite Superior: ");
+            int limiteSuperior = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o Incremento: ");
+            int incremento = int.Parse(Console.ReadLine());
+
+            int inicial = 0;
+
+
+            if (incremento > 0 && limiteSuperior > 0)
+            {
+                while (inicial <= limiteSuperior)
+                {
+                    Console.WriteLine(inicial);
+
+                    inicial = inicial + incremento;
+                }
+            }
+
+            else
+            {
+                Console.WriteLine("O incremento e o limite superior devem ser maior que zero");
+            }
+
+
+            Console.Read();
+
+----------------------------------------------------------------------------------------------------------------
+
+            double n = 0, soma = 0, quantidade = 0, media = 0,quantidadePositiva = 0, somaPositiva = 0, quantidadeNegativa = 0, somaNegativa =0,
+
+            do
+            {
+                Console.WriteLine("---> Enzo Pacheco de Oliveira Souza");
+                Console.WriteLine("---> ");
+                Console.WriteLine("---> Exercício 03");
+                Console.WriteLine("  ");
+                Console.WriteLine("------------------------------------");
+                Console.WriteLine("  ");
+
+                Console.Write("Digite um número: ");
+                n = double.Parse(Console.ReadLine());
+
+                if (n > 0)
+                {
+                    quantidadePositiva++;
+
+                    somaPositiva += n;
+                }
+
+                else if (n < 0)
+                {
+                    quantidadeNegativa++;
+
+                    somaNegativa += n;
+                }
+
+                soma = somaPositiva + somaNegativa;
+
+                quantidade = quantidadePositiva + quantidadeNegativa;
+
+                media = soma / quantidade;
+            } while (n != 0);
+
+            Console.WriteLine("A quantidade de múmeros positivos é: " + quantidadePositiva);
+            Console.WriteLine("A quantidade de números negativos é: " + quantidadeNegativa);
+            Console.WriteLine("A média dos números digitados é: " + media);
+
+            Console.Read();

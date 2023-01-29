@@ -1,0 +1,7 @@
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercicio_104\Exercício_104\Exercício_104\bin\Debug\Exercício_104.exe.config
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercicio_104\Exercício_104\Exercício_104\bin\Debug\Exercício_104.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercicio_104\Exercício_104\Exercício_104\bin\Debug\Exercício_104.pdb
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercicio_104\Exercício_104\Exercício_104\obj\Debug\Exercício_104.csprojAssemblyReference.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercicio_104\Exercício_104\Exercício_104\obj\Debug\Exercício_104.csproj.CoreCompileInputs.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercicio_104\Exercício_104\Exercício_104\obj\Debug\Exercício_104.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercicio_104\Exercício_104\Exercício_104\obj\Debug\Exercício_104.pdb

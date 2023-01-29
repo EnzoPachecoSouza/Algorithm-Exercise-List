@@ -1,0 +1,14 @@
+C:\Users\enzos\OneDrive\Área de Trabalho\Possivél_02\Exercício_002\Exercício_002\bin\Debug\Exercício_002.exe.config
+C:\Users\enzos\OneDrive\Área de Trabalho\Possivél_02\Exercício_002\Exercício_002\bin\Debug\Exercício_002.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Possivél_02\Exercício_002\Exercício_002\bin\Debug\Exercício_002.pdb
+C:\Users\enzos\OneDrive\Área de Trabalho\Possivél_02\Exercício_002\Exercício_002\obj\Debug\Exercício_002.csprojAssemblyReference.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Possivél_02\Exercício_002\Exercício_002\obj\Debug\Exercício_002.csproj.CoreCompileInputs.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Possivél_02\Exercício_002\Exercício_002\obj\Debug\Exercício_002.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Possivél_02\Exercício_002\Exercício_002\obj\Debug\Exercício_002.pdb
+D:\C#\Possível_02\Exercício_002\Exercício_002\bin\Debug\Exercício_002.exe.config
+D:\C#\Possível_02\Exercício_002\Exercício_002\bin\Debug\Exercício_002.exe
+D:\C#\Possível_02\Exercício_002\Exercício_002\bin\Debug\Exercício_002.pdb
+D:\C#\Possível_02\Exercício_002\Exercício_002\obj\Debug\Exercício_002.csprojAssemblyReference.cache
+D:\C#\Possível_02\Exercício_002\Exercício_002\obj\Debug\Exercício_002.csproj.CoreCompileInputs.cache
+D:\C#\Possível_02\Exercício_002\Exercício_002\obj\Debug\Exercício_002.exe
+D:\C#\Possível_02\Exercício_002\Exercício_002\obj\Debug\Exercício_002.pdb

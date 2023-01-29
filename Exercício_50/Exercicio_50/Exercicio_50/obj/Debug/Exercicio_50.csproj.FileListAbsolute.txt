@@ -1,0 +1,14 @@
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_50\Exercicio_50\Exercicio_50\bin\Debug\Exercicio_50.exe.config
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_50\Exercicio_50\Exercicio_50\bin\Debug\Exercicio_50.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_50\Exercicio_50\Exercicio_50\bin\Debug\Exercicio_50.pdb
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_50\Exercicio_50\Exercicio_50\obj\Debug\Exercicio_50.csprojAssemblyReference.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_50\Exercicio_50\Exercicio_50\obj\Debug\Exercicio_50.csproj.CoreCompileInputs.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_50\Exercicio_50\Exercicio_50\obj\Debug\Exercicio_50.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_50\Exercicio_50\Exercicio_50\obj\Debug\Exercicio_50.pdb
+D:\C#\Exercício_50\Exercicio_50\Exercicio_50\bin\Debug\Exercicio_50.exe.config
+D:\C#\Exercício_50\Exercicio_50\Exercicio_50\bin\Debug\Exercicio_50.exe
+D:\C#\Exercício_50\Exercicio_50\Exercicio_50\bin\Debug\Exercicio_50.pdb
+D:\C#\Exercício_50\Exercicio_50\Exercicio_50\obj\Debug\Exercicio_50.csprojAssemblyReference.cache
+D:\C#\Exercício_50\Exercicio_50\Exercicio_50\obj\Debug\Exercicio_50.csproj.CoreCompileInputs.cache
+D:\C#\Exercício_50\Exercicio_50\Exercicio_50\obj\Debug\Exercicio_50.exe
+D:\C#\Exercício_50\Exercicio_50\Exercicio_50\obj\Debug\Exercicio_50.pdb

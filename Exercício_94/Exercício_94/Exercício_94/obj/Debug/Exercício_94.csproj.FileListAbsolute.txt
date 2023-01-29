@@ -1,0 +1,14 @@
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_94\Exercício_94\Exercício_94\bin\Debug\Exercício_94.exe.config
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_94\Exercício_94\Exercício_94\bin\Debug\Exercício_94.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_94\Exercício_94\Exercício_94\bin\Debug\Exercício_94.pdb
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_94\Exercício_94\Exercício_94\obj\Debug\Exercício_94.csprojAssemblyReference.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_94\Exercício_94\Exercício_94\obj\Debug\Exercício_94.csproj.CoreCompileInputs.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_94\Exercício_94\Exercício_94\obj\Debug\Exercício_94.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_94\Exercício_94\Exercício_94\obj\Debug\Exercício_94.pdb
+D:\C#\Exercício_94\Exercício_94\Exercício_94\bin\Debug\Exercício_94.exe.config
+D:\C#\Exercício_94\Exercício_94\Exercício_94\bin\Debug\Exercício_94.exe
+D:\C#\Exercício_94\Exercício_94\Exercício_94\bin\Debug\Exercício_94.pdb
+D:\C#\Exercício_94\Exercício_94\Exercício_94\obj\Debug\Exercício_94.csprojAssemblyReference.cache
+D:\C#\Exercício_94\Exercício_94\Exercício_94\obj\Debug\Exercício_94.csproj.CoreCompileInputs.cache
+D:\C#\Exercício_94\Exercício_94\Exercício_94\obj\Debug\Exercício_94.exe
+D:\C#\Exercício_94\Exercício_94\Exercício_94\obj\Debug\Exercício_94.pdb

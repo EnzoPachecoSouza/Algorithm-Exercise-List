@@ -1,0 +1,14 @@
+C:\Users\ALUNO\Desktop\Exercício_52\Exercício_52\Exercício_52\bin\Debug\Exercício_52.exe.config
+C:\Users\ALUNO\Desktop\Exercício_52\Exercício_52\Exercício_52\bin\Debug\Exercício_52.exe
+C:\Users\ALUNO\Desktop\Exercício_52\Exercício_52\Exercício_52\bin\Debug\Exercício_52.pdb
+C:\Users\ALUNO\Desktop\Exercício_52\Exercício_52\Exercício_52\obj\Debug\Exercício_52.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Exercício_52\Exercício_52\Exercício_52\obj\Debug\Exercício_52.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercício_52\Exercício_52\Exercício_52\obj\Debug\Exercício_52.exe
+C:\Users\ALUNO\Desktop\Exercício_52\Exercício_52\Exercício_52\obj\Debug\Exercício_52.pdb
+D:\C#\Exercício_52\Exercício_52\Exercício_52\bin\Debug\Exercício_52.exe.config
+D:\C#\Exercício_52\Exercício_52\Exercício_52\bin\Debug\Exercício_52.exe
+D:\C#\Exercício_52\Exercício_52\Exercício_52\bin\Debug\Exercício_52.pdb
+D:\C#\Exercício_52\Exercício_52\Exercício_52\obj\Debug\Exercício_52.csprojAssemblyReference.cache
+D:\C#\Exercício_52\Exercício_52\Exercício_52\obj\Debug\Exercício_52.csproj.CoreCompileInputs.cache
+D:\C#\Exercício_52\Exercício_52\Exercício_52\obj\Debug\Exercício_52.exe
+D:\C#\Exercício_52\Exercício_52\Exercício_52\obj\Debug\Exercício_52.pdb

@@ -1,0 +1,14 @@
+C:\Users\ALUNO\Desktop\Exercício_88\Exercício_88\Exercício_88\bin\Debug\Exercício_88.exe.config
+C:\Users\ALUNO\Desktop\Exercício_88\Exercício_88\Exercício_88\bin\Debug\Exercício_88.exe
+C:\Users\ALUNO\Desktop\Exercício_88\Exercício_88\Exercício_88\bin\Debug\Exercício_88.pdb
+C:\Users\ALUNO\Desktop\Exercício_88\Exercício_88\Exercício_88\obj\Debug\Exercício_88.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Exercício_88\Exercício_88\Exercício_88\obj\Debug\Exercício_88.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercício_88\Exercício_88\Exercício_88\obj\Debug\Exercício_88.exe
+C:\Users\ALUNO\Desktop\Exercício_88\Exercício_88\Exercício_88\obj\Debug\Exercício_88.pdb
+D:\C#\Exercício_88\Exercício_88\Exercício_88\bin\Debug\Exercício_88.exe.config
+D:\C#\Exercício_88\Exercício_88\Exercício_88\bin\Debug\Exercício_88.exe
+D:\C#\Exercício_88\Exercício_88\Exercício_88\bin\Debug\Exercício_88.pdb
+D:\C#\Exercício_88\Exercício_88\Exercício_88\obj\Debug\Exercício_88.csprojAssemblyReference.cache
+D:\C#\Exercício_88\Exercício_88\Exercício_88\obj\Debug\Exercício_88.csproj.CoreCompileInputs.cache
+D:\C#\Exercício_88\Exercício_88\Exercício_88\obj\Debug\Exercício_88.exe
+D:\C#\Exercício_88\Exercício_88\Exercício_88\obj\Debug\Exercício_88.pdb

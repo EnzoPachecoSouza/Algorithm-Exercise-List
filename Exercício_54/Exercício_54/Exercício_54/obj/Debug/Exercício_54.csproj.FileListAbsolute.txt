@@ -1,0 +1,7 @@
+D:\C#\Exercício_54\Exercício_54\Exercício_54\bin\Debug\Exercício_54.exe.config
+D:\C#\Exercício_54\Exercício_54\Exercício_54\bin\Debug\Exercício_54.exe
+D:\C#\Exercício_54\Exercício_54\Exercício_54\bin\Debug\Exercício_54.pdb
+D:\C#\Exercício_54\Exercício_54\Exercício_54\obj\Debug\Exercício_54.csprojAssemblyReference.cache
+D:\C#\Exercício_54\Exercício_54\Exercício_54\obj\Debug\Exercício_54.csproj.CoreCompileInputs.cache
+D:\C#\Exercício_54\Exercício_54\Exercício_54\obj\Debug\Exercício_54.exe
+D:\C#\Exercício_54\Exercício_54\Exercício_54\obj\Debug\Exercício_54.pdb

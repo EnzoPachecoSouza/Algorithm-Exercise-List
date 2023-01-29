@@ -1,0 +1,7 @@
+C:\Users\ALUNO\Desktop\Teste\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\ALUNO\Desktop\Teste\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\ALUNO\Desktop\Teste\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\ALUNO\Desktop\Teste\Teste\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Teste\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Teste\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\ALUNO\Desktop\Teste\Teste\Teste\obj\Debug\Teste.pdb

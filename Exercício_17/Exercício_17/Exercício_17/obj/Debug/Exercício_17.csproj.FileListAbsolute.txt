@@ -1,0 +1,14 @@
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_17\Exercício_17\Exercício_17\bin\Debug\Exercício_17.exe.config
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_17\Exercício_17\Exercício_17\bin\Debug\Exercício_17.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_17\Exercício_17\Exercício_17\bin\Debug\Exercício_17.pdb
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_17\Exercício_17\Exercício_17\obj\Debug\Exercício_17.csproj.CoreCompileInputs.cache
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_17\Exercício_17\Exercício_17\obj\Debug\Exercício_17.exe
+C:\Users\enzos\OneDrive\Área de Trabalho\Exercício_17\Exercício_17\Exercício_17\obj\Debug\Exercício_17.pdb
+D:\Exercício_17\Exercício_17\Exercício_17\bin\Debug\Exercício_17.exe.config
+D:\Exercício_17\Exercício_17\Exercício_17\bin\Debug\Exercício_17.exe
+D:\Exercício_17\Exercício_17\Exercício_17\bin\Debug\Exercício_17.pdb
+D:\Exercício_17\Exercício_17\Exercício_17\obj\Debug\Exercício_17.csproj.AssemblyReference.cache
+D:\Exercício_17\Exercício_17\Exercício_17\obj\Debug\Exercício_17.csproj.SuggestedBindingRedirects.cache
+D:\Exercício_17\Exercício_17\Exercício_17\obj\Debug\Exercício_17.csproj.CoreCompileInputs.cache
+D:\Exercício_17\Exercício_17\Exercício_17\obj\Debug\Exercício_17.exe
+D:\Exercício_17\Exercício_17\Exercício_17\obj\Debug\Exercício_17.pdb
